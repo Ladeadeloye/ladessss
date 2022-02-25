@@ -1,0 +1,19 @@
+#submitButton {
+    border-radius: 2px;
+    border-width: 5px 120px;
+}
+
+#log {
+    text-decoration: none;
+}
+
+#coin {
+    color: #0d6efd;
+}
+
+#logo {
+    margin: 1px;
+    padding: 0;
+    width: 290px;
+    height: 80px;
+}
